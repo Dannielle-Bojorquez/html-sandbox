@@ -5,7 +5,7 @@
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
-		<h1>This is my web page</h1>
+		<h1 id="page-header">This is my web page</h1>
 
 		<table>
 			<tr>
@@ -22,7 +22,7 @@
 			</tr>
 			<tr>
 				<td>Siamese</td>
-				<td>German Sheard</td>
+				<td>German Shepard</td>
 			</tr>
 		</table>
 
@@ -35,7 +35,7 @@
 			<li>Fast cars</li>
 		</ul>
 
-		<h2>Things to Do Today</h2>
+		<h2 class="red-heading heading text-green">Things to Do Today</h2>
 		<ol>
 			<li>Feed the Kitty</li>
 			<li>Give Dylan a hard time</li>
